@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BT5.1", "BT5.1\BT5.1.vcxproj", "{4816A133-D3D2-4A19-B8DD-845F85D429B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4816A133-D3D2-4A19-B8DD-845F85D429B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4816A133-D3D2-4A19-B8DD-845F85D429B7}.Debug|Win32.Build.0 = Debug|Win32
+		{4816A133-D3D2-4A19-B8DD-845F85D429B7}.Release|Win32.ActiveCfg = Release|Win32
+		{4816A133-D3D2-4A19-B8DD-845F85D429B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
